@@ -19,14 +19,18 @@ namespace Netflox.Pages
         {
             _logger = logger;
             this.dataContext = dataContext;
-            
+
         }
 
         public void OnGet()
         {
-            var movie = new Movie() { nameMovie = "Alien", time = "1h30"};
-            dataContext.Movies.Add(movie);
-            dataContext.SaveChanges();
+            
+                
+            
         }
+
+
+
     }
 }
+

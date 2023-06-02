@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\geoff\\Documents\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj": {}
+    "D:\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\geoff\\Documents\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj": {
+    "D:\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\geoff\\Documents\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj",
+        "projectUniqueName": "D:\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj",
         "projectName": "Netflox",
-        "projectPath": "C:\\Users\\geoff\\Documents\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj",
+        "projectPath": "D:\\Projets\\Netflox-V2\\Netflox\\Netflox\\Netflox.csproj",
         "packagesPath": "C:\\Users\\geoff\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\geoff\\Documents\\Projets\\Netflox-V2\\Netflox\\Netflox\\obj\\",
+        "outputPath": "D:\\Projets\\Netflox-V2\\Netflox\\Netflox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\geoff\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,6 +62,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.6, )"
             }
           },
           "imports": [

@@ -1,0 +1,17 @@
+﻿@page
+@model Netflox.Pages.Admin.IndexModel
+@{
+}
+
+@if (Model.DisplayInvalidAccountMessage)
+{
+    <div class="alert alert-danger" role="alert">
+        ERREUR : Le login ou le mot de passe sont incorrects !
+    </div>
+}
+<h1>Veuillez vous identifier</h1>
+<form method="post">
+    <input type="text" name="username" placeholder="Login"><br /><br />
+    <input type="password" name="password" placeholder="Mot de passe"><br /><br />
+    <button>Se connecter</button>
+</form>

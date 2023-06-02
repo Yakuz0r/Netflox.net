@@ -1,0 +1,13 @@
+﻿@page 
+@model Netflox.Pages.MoviesModel
+@{
+}
+
+
+@foreach (var movie in Model.Movie)
+{
+    <a asp-page="MovieDescription" asp-route-id="@movie.MovieID" asp-route-description="@movie">
+        <img src="@movie.ImageUrl" alt="" loading="lazy">
+        <h1>@movie.NameMovie</h1>
+    </a>
+}

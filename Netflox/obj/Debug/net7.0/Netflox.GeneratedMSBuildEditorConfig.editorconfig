@@ -9,37 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Netflox
 build_property.RootNamespace = Netflox
-build_property.ProjectDir = C:\Users\geoff\Documents\Projets\Netflox-V2\Netflox\Netflox\
+build_property.ProjectDir = D:\Projets\Netflox-V2\Netflox\Netflox\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\geoff\Documents\Projets\Netflox-V2\Netflox\Netflox
+build_property.MSBuildProjectDirectory = D:\Projets\Netflox-V2\Netflox\Netflox
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/Error.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Films/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxGaWxtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Films/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxGaWxtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Films/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxGaWxtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Films/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxGaWxtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Films/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxGaWxtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxVc2Vyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxVc2Vyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxVc2Vyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxVc2Vyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Admin-Gestion/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW4tR2VzdGlvblxVc2Vyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/Index.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/Privacy.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/MovieDescription.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVEZXNjcmlwdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Movies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/Shared/_Layout.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/_ViewImports.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/geoff/Documents/Projets/Netflox-V2/Netflox/Netflox/Pages/_ViewStart.cshtml]
+[D:/Projets/Netflox-V2/Netflox/Netflox/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

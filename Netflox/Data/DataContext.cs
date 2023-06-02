@@ -9,5 +9,7 @@ namespace Netflox.Data
         {
         }
         public DbSet<Movie> Movies { get; set; }
+        public DbSet<MainUsers> MainUsers { get; set; }
+      
     }
 }
